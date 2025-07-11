@@ -1,6 +1,6 @@
 # jwt-key-generator
 
-This script was typically written to automate creating .env variables for [Chronicler](https://github.com/mrdsx/chronicler) which needs security keys for JWT authentication.
+This script was typically written to automate creating .env variables for [Chronicler](https://github.com/mrdsx/chronicler) which needs security keys for JWT authentication. The result of running script is jwks-es.json and .env file. The second file is important step when setting environment variables for [Chronicler](https://github.com/mrdsx/chronicler) backend.
 
 ## Getting started
 
