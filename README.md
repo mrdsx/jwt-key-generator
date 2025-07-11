@@ -28,3 +28,9 @@ python -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
+
+### 4. Run script
+
+```bash
+python run.py
+```
