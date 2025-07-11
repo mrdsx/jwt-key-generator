@@ -2,7 +2,7 @@
 
 This script was typically written to automate creating .env variables for [Chronicler](https://github.com/mrdsx/chronicler) which needs security keys for JWT authentication.
 
-## Installation guide
+## Getting started
 
 ### Prerequisites
 
